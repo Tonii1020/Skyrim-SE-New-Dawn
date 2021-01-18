@@ -39,7 +39,7 @@ Wabbajack Modlist Installer
 
 ## Preamble
 
-New Dawn is a modlist that isn't inspired by any other modlist or mod, it's just its own kind of thing, my main focuses were on graphics and immersion the two main things you need to be immersed in a game but i don't like to add survival mods, you're already doing that in real life, there's no fun in slaying a hge dragon when all of a sudden you're thirsty and run out of water or something i don't know lets continue.
+New Dawn is a modlist that isn't inspired by any other modlist or mod, it's just its own kind of thing, my main focuses were on graphics and immersion the two main things you need to be immersed in a game but i don't like to add survival mods, you're already doing that in real life, there's no fun in slaying a dragon when all of a sudden you're thirsty and run out of water or something i don't know lets continue.
 
 This modlist requires at LEAST 90GB free to download and install.
 
