@@ -147,7 +147,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ### Quest and Encounter Mods
 
-Krosis comes with one new quest and encounters.
+New Dawn comes with one new quest and encounters. (More will be added later)
 
 [Falskaar](https://www.nexusmods.com/skyrimspecialedition/mods/2057)
 A DLC sized new lands mod that adds 20+ hours of fully voiced lore friendly (But not canon) quests, dungeons, and more.
