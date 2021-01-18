@@ -131,7 +131,13 @@ New Dawn comes configured with [Visceral ENB](https://www.nexusmods.com/skyrimsp
 
 ## How to start up New Dawn
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to 'Play New Dawn' by selecting it in the dropdown box and then hitting the run button. 
+1. Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it
+2. Once it's launched, there will be a dropdown box on the top right, click on it and start up synthesis
+3. it will probably ask you to download some things, do that and start again from step 1
+4. After synthesis has been launched you can click on the arrow that appears after a short while on the bottom left
+5. after you have run both of the cripts go back to mod organizer
+6. Again from the drop down menu select Nemesis Engine and start it, click on uodate engine then after than run engine.
+7. Once you are done with both things, ensure the drop down menu is set to 'Play New Dawn' then hit the run button to start playing.
 
 ## Updating
 
