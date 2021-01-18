@@ -94,7 +94,7 @@ The download and installation process can take a very long time depending on you
 
 1. Open Wabbajack
 2. Download the modlist from [here](https://drive.google.com/drive/folders/1KRJD5P88cmixGhXLGLhC8QsbGRKjI9Rc?usp=sharing) and install from drive option in Wabbajack
-3. Once the download is done installing, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Krosis`). The downloads path should automatically fill in the installation path.
+3. Once the download is done installing, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `D:/Modlists/New Dawn`). The downloads path should automatically fill in the installation path.
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
 6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
