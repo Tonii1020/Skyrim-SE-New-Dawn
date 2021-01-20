@@ -165,8 +165,8 @@ A city overhaul for each of the five major holds, new and improved for SE.
 
 ### NPC Retextures
 
-[Nordic Faces - Immersive Characters Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40658)
-Nordic Faces can be used as a complete package of character overhaul, or serve as a solid base which you can add your favorite skins or NPC mod on top of it. The mod contains no plugins, only textures, meshes and FaceGen files are included to ensure high compatibility with other NPC mods.
+[Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174)
+A lore friendly and compatible NPC overhaul that aims to preserve the rugged aesthetic of people in Skyrim.
 
 [Guards Armor Replacer SSE](https://www.nexusmods.com/skyrimspecialedition/mods/22671)
 Replacer for guards and Stormcloak Armor.
